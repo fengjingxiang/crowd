@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding08-member-erueka:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding08-member-erueka/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding08-member-erueka</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding08-member-erueka.war">
+      <element id="artifact" artifact-name="crowdfunding08-member-erueka:war exploded" />
+    </root>
+  </artifact>
+</component>

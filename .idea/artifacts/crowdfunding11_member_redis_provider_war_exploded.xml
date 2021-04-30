@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="crowdfunding11-member-redis-provider:war exploded">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/crowdfunding11-member-redis-provider/target/crowdfunding11-member-redis-provider</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>crowdfunding11-member-redis-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="crowdfunding11-member-redis-provider" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-redis:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:unknown" />
+          <element id="archive" name="crowdfunding09-member-entity-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="crowdfunding09-member-entity" />
+          </element>
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.12" />
+          <element id="archive" name="crowdfunding05_common_util-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="crowdfunding05_common_util" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.4" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.4.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.5" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/crowdfunding11-member-redis-provider/target/crowdfunding11-member-redis-provider/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="crowdfunding11-member-redis-provider/web/Web" />
+    </root>
+  </artifact>
+</component>

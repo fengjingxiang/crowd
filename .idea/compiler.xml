@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crowdfunding08-member-eurka" />
+        <module name="crowdfunding15-member-pay-consumer" />
+        <module name="crowdfunding13-member-project-consumer" />
+        <module name="crowdfunding12-member-authentication-consumer" />
+        <module name="crowdfunding04_admin_entity" />
+        <module name="AlibabaPay" />
+        <module name="crowdfunding09-member-entity" />
+        <module name="crowdfunding14-member-order-consumer" />
+        <module name="crowdfunding17-member-api" />
+        <module name="crowdfunding02_admin_webui" />
+        <module name="crowdfunding06_common_reverse" />
+        <module name="crowdfunding10-member-mysql" />
+        <module name="crowdfunding16-member-Zuul" />
+        <module name="crowdfunding03_admin_component" />
+        <module name="crowdfunding05_common_util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="-07_test" target="1.7" />
+      <module name="AlibabaPay" target="1.7" />
+      <module name="alipay.trade.page.pay" target="1.7" />
+      <module name="atcrowdfunding08-member-eureka" target="1.8" />
+      <module name="crowdfunding01_admin_parent" target="1.5" />
+      <module name="crowdfunding02_admin_web" target="1.7" />
+      <module name="crowdfunding02_admin_webui" target="1.7" />
+      <module name="crowdfunding03_admin_component" target="1.7" />
+      <module name="crowdfunding04_admin_entity" target="1.7" />
+      <module name="crowdfunding05_common_util" target="1.7" />
+      <module name="crowdfunding06_common_reverse" target="1.5" />
+      <module name="crowdfunding07-member-parent" target="1.8" />
+      <module name="crowdfunding08-member-eureka" target="1.7" />
+      <module name="crowdfunding08-member-eurka" target="1.7" />
+      <module name="crowdfunding09-member-entity" target="1.8" />
+      <module name="crowdfunding10-member-mysql" target="1.7" />
+      <module name="crowdfunding11-member-redis-provider" target="1.7" />
+      <module name="crowdfunding12-member-authentication-consumer" target="1.7" />
+      <module name="crowdfunding13-member-project-consumer" target="1.7" />
+      <module name="crowdfunding14-member-order-consumer" target="1.7" />
+      <module name="crowdfunding15-member-pay-consumer" target="1.7" />
+      <module name="crowdfunding16-member-Zuul" target="1.7" />
+      <module name="crowdfunding16-member-zuul" target="1.7" />
+      <module name="crowdfunding16-member-zuul." target="1.8" />
+      <module name="crowdfunding17-member-api" target="1.7" />
+      <module name="crowdfundinng07-member-parent" target="1.7" />
+      <module name="spring-security" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="atcrowdfunding08-member-eureka" options="-parameters" />
+      <module name="crowdfunding08-member-erueka" options="" />
+      <module name="crowdfunding08-member-eureka" options="" />
+      <module name="crowdfunding08-member-eurka" options="-parameters" />
+      <module name="crowdfunding09-member-entity" options="-parameters" />
+      <module name="crowdfunding10-member-mysql" options="-parameters" />
+      <module name="crowdfunding10-member-mysql-provider" options="-parameters" />
+      <module name="crowdfunding11-member-redis-provide" options="-parameters" />
+      <module name="crowdfunding11-member-redis-provider" options="" />
+      <module name="crowdfunding12-member-authentication-consumer" options="-parameters" />
+      <module name="crowdfunding13-member-project-consumer" options="-parameters" />
+      <module name="crowdfunding14-member-order-consumer" options="-parameters" />
+      <module name="crowdfunding14-member-zuuul" options="" />
+      <module name="crowdfunding15-member-pay-consumer" options="-parameters" />
+      <module name="crowdfunding16-member-ZUUL" options="" />
+      <module name="crowdfunding16-member-Zuul" options="-parameters" />
+      <module name="crowdfunding16-member-zuul" options="-parameters" />
+      <module name="crowdfunding16-member-zuul." options="-parameters" />
+      <module name="crowdfunding17-member-api" options="" />
+      <module name="springboot" options="-parameters" />
+    </option>
+  </component>
+</project>

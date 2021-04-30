@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding14-member-order-consumer:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding14-member-order-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding14-member-order-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding14-member-order-consumer.war">
+      <element id="artifact" artifact-name="crowdfunding14-member-order-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

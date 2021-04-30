@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding12-member-authentication-consumer:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding12-member-authentication-consumer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding12-member-authentication-consumer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding12-member-authentication-consumer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crowdfunding12-member-authentication-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>

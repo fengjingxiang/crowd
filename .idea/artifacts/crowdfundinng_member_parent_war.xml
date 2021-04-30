@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfundinng-member-parent:war">
+    <output-path>$PROJECT_DIR$/../crowdfundinng-member-parent/crowdfundinng-member-parent/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfundinng-member-parent</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfundinng-member-parent.war">
+      <element id="artifact" artifact-name="crowdfundinng-member-parent:war exploded" />
+    </root>
+  </artifact>
+</component>

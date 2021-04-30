@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AlibabaPay:war">
+    <output-path>$PROJECT_DIR$/../AlibabaPay/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>AlibabaPay</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="AlibabaPay.war">
+      <element id="artifact" artifact-name="AlibabaPay:war exploded" />
+    </root>
+  </artifact>
+</component>

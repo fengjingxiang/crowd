@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding10-member-mysql:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding10-member-mysql</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding10-member-mysql.war">
+      <element id="artifact" artifact-name="crowdfunding10-member-mysql:war exploded" />
+    </root>
+  </artifact>
+</component>

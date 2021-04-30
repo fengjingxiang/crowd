@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="aliapp:war">
+    <output-path>D:/TSBrowserDownloads/aliapp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>aliapp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="aliapp.war">
+      <element id="artifact" artifact-name="aliapp:war exploded" />
+    </root>
+  </artifact>
+</component>

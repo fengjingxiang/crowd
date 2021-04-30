@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="alipay.trade.page.pay:war">
+    <output-path>D:/TSBrowserDownloads/alipay.trade.page.pay/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>alipay.trade.page.pay</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="alipay.trade.page.pay.war">
+      <element id="artifact" artifact-name="alipay.trade.page.pay:war exploded" />
+    </root>
+  </artifact>
+</component>

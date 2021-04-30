@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding11-member-redis-provider:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/crowdfunding11-member-redis-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding11-member-redis-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding11-member-redis-provider.war">
+      <element id="artifact" artifact-name="crowdfunding11-member-redis-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

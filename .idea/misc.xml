@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../AlibabaPay" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding01_admin_parent" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding05_common_util" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding06_common_reverse" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding07-member-parent" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding15-member-pay-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfundinng-member-parent/crowdfundinng07-member-parent" />
+    <file type="web" url="file://$PROJECT_DIR$/../message" />
+    <file type="web" url="file://D:/TSBrowserDownloads/aliapp" />
+    <file type="web" url="file://D:/TSBrowserDownloads/alibabaPaid" />
+    <file type="web" url="file://D:/TSBrowserDownloads/alipay.trade.page.pay" />
+    <file type="web" url="file://D:/TSBrowserDownloads/pay" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../crowdfunding01_admin_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding05_common_util/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding06_common_reverse/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfundinng-member-parent/crowdfundinng-member-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../message/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../crowdfunding01_admin_parent/-07_test/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding01_admin_parent/crowdfunding02_admin_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding01_admin_parent/spring-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/atcrowdfunding08-member-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding08-member-erueka/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding08-member-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/crowdfunding11-member-redis-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding11-member-redis-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding14-member-zuuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding16-member-ZUUL/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding16-member-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding16-member-zuulserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfundinng-member-parent/crowdfundinng07-member-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding16-member-Zuul:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding16-member-Zuul/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding16-member-Zuul</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding16-member-Zuul.war">
+      <element id="artifact" artifact-name="crowdfunding16-member-Zuul:war exploded" />
+    </root>
+  </artifact>
+</component>

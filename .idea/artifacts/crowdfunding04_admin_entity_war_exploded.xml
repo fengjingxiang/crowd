@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="crowdfunding04_admin_entity:war exploded">
+    <output-path>$PROJECT_DIR$/../crowdfunding01_admin_parent/crowdfunding04_admin_entity/target/crowdfunding04_admin_entity</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>crowdfunding04_admin_entity</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="crowdfunding04_admin_entity" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.18" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../crowdfunding01_admin_parent/crowdfunding04_admin_entity/target/crowdfunding04_admin_entity/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="crowdfunding04_admin_entity/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding08-member-eurka:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding07-member-parent/crowdfunding08-member-eurka/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding08-member-eurka</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding08-member-eurka-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="crowdfunding08-member-eurka:war exploded" />
+    </root>
+  </artifact>
+</component>

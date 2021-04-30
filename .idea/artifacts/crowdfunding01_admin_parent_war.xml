@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfunding01_admin_parent:war">
+    <output-path>$PROJECT_DIR$/../crowdfunding01_admin_parent/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>crowdfunding01_admin_parent</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="crowdfunding01_admin_parent.war">
+      <element id="artifact" artifact-name="crowdfunding01_admin_parent:war exploded" />
+    </root>
+  </artifact>
+</component>
